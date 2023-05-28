@@ -26,7 +26,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-~~~<html>
+~~~
+<html>
 <body>
 <h1>CULTIVATOR</h1>
 <a href="https://www.bing.com/search?q=cultivator&form=ANSPH1&refig=f550714b463c4bfe9d2aaef9b3c14042&pc=U531&sp=1&lq=0&filters=ufn%3A%22Cultivator%22+sid%3A%229c624568-b8e9-e9c8-0edf-383a9f4f29a8%22&asbe=HS&qs=MB&pq=cu&sc=10-2&cvid=f550714b463c4bfe9d2aaef9b3c14042">
@@ -59,8 +60,8 @@ width="200" height="200"></a>
 <img src="weeder.jpg"
 width="200" height="200"></a>
 </body>
-</html>~~~
-
+</html>
+~~~
 
 
 ## OUTPUT
